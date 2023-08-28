@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "125454646769",
+    "firebase_url": "https://bandgsrapp.firebaseio.com",
+    "project_id": "bandgsrapp",
+    "storage_bucket": "bandgsrapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125454646769:android:f22959fe3eba0846",
+        "android_client_info": {
+          "package_name": "com.microsoft.band.sdk.gsr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125454646769-ere7ubucufai6pl3ru6985aihmqfnr0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microsoft.band.sdk.gsr",
+            "certificate_hash": "0a82bd81e8a1c8d5d59c5ebde96b6efee2662297"
+          }
+        },
+        {
+          "client_id": "125454646769-eq59jn5pm9ejc3ff8d1e3gu7o0ha2gaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXoBTJ0UOaqF0h_95umHLybNvAYd3Urc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125454646769-eq59jn5pm9ejc3ff8d1e3gu7o0ha2gaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

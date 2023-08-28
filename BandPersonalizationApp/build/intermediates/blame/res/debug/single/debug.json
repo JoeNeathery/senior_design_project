@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\build\\intermediates\\res\\merged\\debug\\raw_metile_image.jpg.flat",
+        "source": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\res\\raw\\metile_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\build\\intermediates\\res\\merged\\debug\\raw_metile_image_v2.jpg.flat",
+        "source": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\res\\raw\\metile_image_v2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\JN\\Documents\\Senior_design\\BandPersonalizationApp\\res\\menu\\main.xml"
+    }
+]

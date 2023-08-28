@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "33515729893",
+    "firebase_url": "https://msbandapp.firebaseio.com",
+    "project_id": "msbandapp",
+    "storage_bucket": "msbandapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33515729893:android:2abf722971498154",
+        "android_client_info": {
+          "package_name": "com.example.g29.msbandapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33515729893-128qt7dg8tceh48n5iu0ht29ubbiddok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.g29.msbandapp",
+            "certificate_hash": "0a82bd81e8a1c8d5d59c5ebde96b6efee2662297"
+          }
+        },
+        {
+          "client_id": "33515729893-9l8j42no0v72un1b3ogajah3aq4ir7l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD93zHgKSaoME4FDONBbkK768F6Fbm717E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33515729893-9l8j42no0v72un1b3ogajah3aq4ir7l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
